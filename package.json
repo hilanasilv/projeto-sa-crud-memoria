@@ -1,0 +1,15 @@
+{
+  "name": "projeto-sa-crud-memoria",
+  "version": "1.0.0",
+  "description": "CRUD em Memória",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
